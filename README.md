@@ -5,7 +5,7 @@ Serviço Rest para Acesso a um CRUD Simples
 com serviços RestFull
 
 # Tecnologias
-Java, Maven 3.6.0, Rest com Jersey, Postman
+Java, Maven, Rest com Jersey, Postman
 
 # Rodando o Projeto
 
